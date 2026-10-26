@@ -1,0 +1,23 @@
+{
+    "superadminloginID": "superadmin",
+    "superadminpasswd": "Com@1111",
+    "networkadminloginID": "arnetadm5",
+    "networkadminpasswd": "Arus@359",
+    "channelUserLoginID":"dqauser01",
+    "channelUserpasswd":"Com@1111",
+    "channeladminloginID": "archadm4",
+    "channeladminpasswd": "May@2024",
+    "channeladminloginID2": "archadm5",
+    "channeladminpasswd2":  "May@2024",
+    "channeluserloginID": "dqauser01",
+    "channelsuerpasswd": "Com@1111",
+    "networkloginID": "nwadmrv",
+    "networkpasswd": "Ragh@359",
+    "staffuserloginID": "dqastaff0101",
+    "staffsuerpasswd": "May@2024",
+    "sizeofdigits":"5",
+    "MobileNumber":"7200192039",
+    "ChannelUser2Msisdn":"7200912832",
+    "TransferHierarchy_MobileNumber":"7200988090",
+    "ChannelUserPin":"1357"
+}

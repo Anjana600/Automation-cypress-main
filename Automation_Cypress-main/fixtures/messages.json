@@ -1,0 +1,49 @@
+{
+    "iccid":{
+        "iccidDeleteSuccessMsg":"deleted successfully",
+        "mobNumReqdErrMsg":"Mobile number is required",
+        "iccidReqdErrMsg":"ICCID is required",
+        "correctIccidReqdErrMsg":"ICCID/IMSI is required",
+        "correctMobNumReqdErrMsg":"Mobile Number is required",
+        "correctIccidMappingModified":"Mapping details modified successfully",
+        "correctIccidMappingAdded":"Mapping details added successfully"
+    },
+    "messageManagement":{
+        "msgModifiedSuccessMsg":"Message successfully modified",
+        "msgCodeReqdErrMsg":"Message Code is required",
+        "msgInvalidErrMsg":"Invalid Message contents some special characters",
+        "msgBulkFileUploadSuccessMsg":"File uploaded successfully",
+        "msgBulkFileUploadPartialSuccessMsg":"File upload and process partially successful",
+        "msgBulkFileUploadFailMsg":"Messages upload failed",
+        "fileReqdErrMsg":"File is required"
+    },
+    "subLookUpManagement":{
+        "subLookUpAddedMessage":" Sublookup added successfully. ",
+        "subLookUpModifiedMessage":"Sublookup modified successfully.",
+        "subLookUpDeletedMessage":"Sublookup details deleted successfully.",
+        "invalidSubLookupNameMessage": " Sub lookup name cannot be less than 3 characters.",
+        "duplicateSubLookUpName":" Sublookup with this name already exists."
+    },
+    "cellIdManagement":{
+        "cellIdAssociateSuccessMsg":"Cell ID associated sucessfully",
+        "cellIdAssociateFailedMsg":"All records contain error",
+        "cellIdAssociatePartialSuccessMsg":"record processed successfully",
+        "cellIdAssociateInvalidFileMsg":"Only XLS Files are allowed",
+        "cellGrpAddSuccessMsg":"Cell group added successfully",
+        "cellGrpModifySuccessMsg":"Cell group modified successfully",
+        "cellGrpDeleteSuccessMsg":"Cell group deleted successfully",
+        "cellGrpNameReqdErrMsg":"Group name is required",
+        "cellGrpCodeReqdErrMsg":"Group code is required",
+        "cellGrpStatusReqdErrMsg":"Status is required",
+        "cellGrpAssociatedWithCellIdErrMsg":"Cell group is associated with some cell ids",
+        "cellIdReAssSuccessMsg":"Cell ID re-associated sucessfully"
+    },
+    "subscriberRouting":{
+        "subscriberRoutingAddedMessage":"Mobile number added successfully",
+        "subscriberRoutingDeletedMessage":"Routing deleted successfully.",
+        "blankInterfaceErrorMessage":"Interface is required",
+        "blankInterfaceTypeErrorMessage":"Interface type is required",
+        "blankInterfaceCategoryErrorMessage":"Interface Category is required",
+        "blankMobileNumberErrorMessage":"Mobile number is required"
+    }
+}
